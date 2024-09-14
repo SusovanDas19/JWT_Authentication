@@ -8,5 +8,11 @@ This is a simple authentication API built using **Node.js** and **Express.js** w
 - **Sign in** a user and generate a JWT token
 - **Access user information** using the token
 
-## Sign up
-![Alt text](./Screenshot.png)
+## Sign up Route
+![Alt text](signup.png)
+
+## Sign in Route
+![Alt text](signin.png)
+
+## Me Route to get user info using JWT
+![Alt text](me.png)
